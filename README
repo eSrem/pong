@@ -6,3 +6,15 @@ The master branch only contains this README file.
 Each branch will contain a specific language implementation.
 
 Check the readme file within each branch to see instructions.
+
+-- HTML5 Canvas and Javascript
+
+* I learned how to work with JavaScript classes.
+* This is the first version of Pong that I created.
+* This version uses a font that is free for personal use, not for distribution.
+    I did not include it in my commit.
+    Download it here: https://www.1001fonts.com/arcadeclassic-font.html#styles
+
+* I'm not sure if I should influence game state from the ball class or if I should return values.
+* I'm not sure the game constant should be a constant or a class.
+* It would be nice to refactor into different JavaScript modules.
